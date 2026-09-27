@@ -1,6 +1,6 @@
-# Payhook bounty demo
+# Paycue bounty demo
 
-This repository is the playground for the **Payhook contribution reward demo**.
+This repository is the playground for the **Paycue contribution reward demo**.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
 
