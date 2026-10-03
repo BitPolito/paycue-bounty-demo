@@ -4,6 +4,10 @@ This repository is the playground for the **Paycue contribution reward demo**.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
 
+## Bounty flow
+
+![Pixel-art flow from an issue to a bounty payout](docs/flow.svg)
+
 ## How to claim a bounty
 
 1. Pick an open issue with a `bounty: …` label.
