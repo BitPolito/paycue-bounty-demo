@@ -1,10 +1,5 @@
 # FAQ
 
-## What is this repository for?
-
-It demonstrates automated contribution rewards: merging a pull request that
-closes a bounty issue pays its author.
-
 ## Can I be paid to a Lightning Address?
 
 Yes. A Lightning Address such as `name@domain` can receive sats. Paycue looks
@@ -16,3 +11,8 @@ actual time, and the receiver's LNURL-pay service sets its accepted amount
 range.
 
 This bounty demo is testnet-only; its rewards have no real-money value.
+
+## What is this repository for?
+
+It demonstrates automated contribution rewards: merging a pull request that
+closes a bounty issue pays its author.
