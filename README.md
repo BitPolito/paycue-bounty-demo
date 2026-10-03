@@ -1,5 +1,7 @@
 # Paycue bounty demo
 
+[English](README.md) | [Italiano](README.it.md)
+
 This repository is the playground for the **Paycue contribution reward demo**.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
