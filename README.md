@@ -4,6 +4,8 @@ This repository is the playground for the **Paycue contribution reward demo**.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
 
+See the [payout states glossary](docs/glossary.md) for a one-line explanation of each state.
+
 ## How to claim a bounty
 
 1. Pick an open issue with a `bounty: …` label.
