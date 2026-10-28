@@ -1,6 +1,10 @@
 # Paycue bounty demo
 
 This repository is the playground for the **Paycue contribution reward demo**.
+
+The live bounty board is the repository's issue tracker, filtered by the
+`bounty:` label: https://github.com/BitPolito/paycue-bounty-demo/issues?q=is%3Aissue+is%3Aopen+label%3Abounty.
+It runs on Signet and Liquid testnet.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
 
