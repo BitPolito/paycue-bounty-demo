@@ -16,3 +16,7 @@ that closes them is merged. Signet/testnet only: no real money.
    the bounty board.
 
 One payout per bounty issue, whoever merges first.
+
+## Payout states
+
+See [docs/glossary.md](docs/glossary.md) for payout state definitions.
