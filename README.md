@@ -1,5 +1,7 @@
 # Paycue bounty demo
 
+🔗 **Live bounty board:** https://paycue.org/bounty-board – runs on Signet and the Liquid testnet.
+
 This repository is the playground for the **Paycue contribution reward demo**.
 Issues labelled `bounty: <sats>` are paid automatically when a pull request
 that closes them is merged. Signet/testnet only: no real money.
